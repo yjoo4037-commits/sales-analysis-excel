@@ -29,6 +29,7 @@ An Excel project that analyzes 1,000 sales records (Arabic data) of computer pro
 | طريقة الدفع | Payment method |
 
 ## Key Insights
+> Note: the dataset appears to be synthetic (net profit is about 93% of sales), so the insights are for demonstration purposes.
 
 All figures count **completed orders only** (canceled, returned, and in-shipping orders are excluded).
 
