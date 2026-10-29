@@ -4,11 +4,7 @@ An Excel project that analyzes 1,000 sales records (Arabic data) of computer pro
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
-
-## Pivot Table
-
-![Pivot](images/pivot.png)
+![Dashboard](image/dashboard.png)
 
 ## Dataset
 
