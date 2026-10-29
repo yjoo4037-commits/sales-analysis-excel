@@ -46,7 +46,7 @@ All figures count **completed orders only** (canceled, returned, and in-shipping
 
 ## How to Use
 
-1. Open `excel/sales_analysis.xlsx`.
+1. Open `sales_analysis.xlsx`.
 2. Go to the `dashboard` sheet.
 3. Use the slicers (Governorate, Category, Payment Method) to filter the charts.
 
